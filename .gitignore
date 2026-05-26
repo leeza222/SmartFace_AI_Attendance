@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+attendance.csv
+known_faces/
+.env
+venv/
+.venv/
